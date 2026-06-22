@@ -1,6 +1,6 @@
 # macOS Golden Gate (Apple Silicon) Root File System, APFS Volume Group, and Boot Chain Deep Dive
 
-**Languages:** [简体中文](README.md) [English](README_en.md) [日本語](README_jp.md)  
+**Languages:** [简体中文](README.md) [English](README_en.md) [日本語](README_ja.md)  
 **Document Version:** v1.0  
 **Subject:** MacBook Pro 14 (macOS Golden Gate 27.0 beta 1)  
 **Analysis Method:** Hands-on verification (diskutil, mount, firmlink, snapshot, APFS Volume Group, Simulator Runtime)
