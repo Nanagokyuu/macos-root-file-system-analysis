@@ -1,6 +1,6 @@
 # macOS Golden Gate (Apple Silicon) 根文件系统、APFS Volume Group 与启动链深度分析
 
-**语言：** [简体中文](README.md) [English](README_en.md) [日本語](README_jp.md)  
+**语言：** [简体中文](README.md) [English](README_en.md) [日本語](README_ja.md)  
 **文档版本：** v1.0  
 **分析对象：** MacBook Pro 14（macOS Golden Gate 27.0 beta 1）  
 **分析方式：** 实机验证（diskutil、mount、firmlink、snapshot、APFS Volume Group、Simulator Runtime）
