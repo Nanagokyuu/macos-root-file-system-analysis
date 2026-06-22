@@ -1,6 +1,6 @@
 # macOS Golden Gate（Apple Silicon）ルートファイルシステム・APFSボリュームグループ・ブートチェーン 深層解析
 
-**言語：** [简体中文](README.md) [English](README_en.md) [日本語](README_ja.md)
+**言語：** [简体中文](README.md) [English](README_en.md) [日本語](README_ja.md)  
 **ドキュメントバージョン：** v1.0  
 **解析対象：** MacBook Pro 14（macOS Golden Gate 27.0 beta 1）  
 **解析方法：** 実機検証（diskutil、mount、firmlink、snapshot、APFS Volume Group、Simulator Runtime）
